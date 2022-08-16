@@ -12,3 +12,14 @@ Our platform has gamification, a data analysis feature, and a rewards section. W
 
 -Build a portfolio of projects, track your progress, and get paid for it!
 
+## Why Us?
+
+Do you want a new job, and you want to learn how to code?
+
+Do you want to learn about coding, but don't know where to start?
+
+We've got your back. Udundel is here to help.
+
+We make it easy for people like you who want to learn how to code so they can get back in touch with their passion—and we're not just talking about the code itself, either. We also offer gamification, data analysis features and rewards—all designed to help you succeed at learning how to code.
+
+
